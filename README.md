@@ -11,7 +11,7 @@ This project uses data collected by [Dr Kristen Gorman](https://www.uaf.edu/cfos
 
 **Species studied:** Adelie, Chinstrap & Gentoo
 
-**Research location:** Torgersen, Biscoe, and Dream Islands.
+**Research location:** [TODO: Which three islands were the penguins observed on? Hint: check the `island` column in `data/penguins_raw.csv`]
 
 **Sample size:** [TODO: How many penguins are in the raw dataset? Hint: look at how the analysis script checks this]
 
@@ -72,7 +72,6 @@ penguin-analysis/
 Horst AM, Hill AP, Gorman KB (2020). *palmerpenguins: Palmer Archipelago (Antarctica) penguin data.* R package version 0.1.0. https://allisonhorst.github.io/palmerpenguins/
 
 ## Authors
-Caitlin!
-Luca
+Caitlin! (& also Luca if he can figure out how to do it properly)
 
 
